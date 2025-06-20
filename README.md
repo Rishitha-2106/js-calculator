@@ -13,3 +13,7 @@ This is a simple calculator built using HTML, CSS, and vanilla JavaScript. It us
 - Result button (`=`)
 - Simple functional design
 
+## 💡 Improvements with More Time
+- Add keyboard support
+- Show full expression history
+- Add dark mode
